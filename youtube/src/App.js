@@ -1,12 +1,10 @@
-
+import Register from "./components/userRegister.js";
 
 const App = ()=> {
   return (
     <div className="App" >
 
-
-     <h1>YouTube Clone</h1>
-
+    <Register/>
 
     </div>
   );
